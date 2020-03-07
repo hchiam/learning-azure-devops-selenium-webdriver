@@ -1,3 +1,5 @@
+Central place for my learning notes: <https://github.com/hchiam/learning-azure-devops#learning-azure-devops>
+
 # Try cross-browser testing with Selenium WebDriver
 
 For reference, here's a repo that runs Cypress instead: <https://dev.azure.com/hchiam/_git/test-cypress>
